@@ -1,0 +1,84 @@
+.main {
+  background-color: rgb(47, 134, 134);
+}
+.h1 {
+  color: white;
+  font-size: 50px;
+  font-weight: 800;
+  text-align: center;
+  background-color: rgb(40, 34, 128);
+}
+.nav {
+  font-size: 20px;
+  text-align: left;
+}
+.article {
+  /* padding: 20px; */
+  text-align: center;
+  /* background-color: rgb(47, 134, 134); */
+}
+.article-p {
+  text-justify: 10px;
+  padding: 40px;
+}
+.footer {
+  background-color: blue;
+  color: black;
+  text-align: center;
+  font-size: 30px;
+  padding: 10px;
+}
+
+/* services.... */
+
+.header1 {
+  color: rgb(245, 194, 127);
+  font-size: 40px;
+  background-color: rgb(36, 16, 214);
+  text-align: center;
+}
+.article1 {
+  background-color: rgb(57, 209, 171);
+  padding: 20px;
+  text-align: center;
+}
+.article-p2 {
+  padding: 40px;
+}
+.footer1 {
+  background-color: blue;
+  padding: 10px;
+  text-align: center;
+  font-size: 24px;
+}
+.header2 {
+  color: white;
+  text-align: center;
+  padding: 20px;
+  background-color: blue;
+  font-size: 40px;
+  font-weight: 10px;
+}
+.nav1 {
+  font-size: 20px;
+  text-align: left;
+}
+.article3{
+  padding: 20px;
+  text-align: center;
+  background-color:rgba(54, 134, 78, 0.589);
+}
+.article-p3 {
+  padding: 40px;
+}
+.nav2 {
+  font-size: 20px;
+  text-align: left;
+}
+.footer2 {
+  background-color: blue;
+  text-align: center;
+  padding: 15px;
+  font-size: 30px;
+  color: white;
+}
